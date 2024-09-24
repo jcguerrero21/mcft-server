@@ -11,6 +11,7 @@
       "minecraft:beach": "2024-09-23 22:06:01 +0000",
       "minecraft:river": "2024-09-23 22:06:18 +0000",
       "minecraft:forest": "2024-09-18 20:51:33 +0000",
+      "minecraft:ocean": "2024-09-24 21:37:22 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-24 15:48:45 +0000"
     },
     "done": false
@@ -3148,7 +3149,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2024-09-24 15:53:05 +0000"
+      "minecraft:cow": "2024-09-24 15:53:05 +0000",
+      "minecraft:chicken": "2024-09-24 21:43:41 +0000"
     },
     "done": false
   },
@@ -3170,9 +3172,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-09-24 21:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-09-24 21:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-09-24 21:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-09-24 21:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2024-09-24 21:37:23 +0000"
     },
     "done": true
   },
