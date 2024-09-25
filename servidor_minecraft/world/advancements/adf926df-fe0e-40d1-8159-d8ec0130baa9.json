@@ -13,7 +13,8 @@
       "minecraft:cold_ocean": "2024-09-25 18:32:13 +0000",
       "minecraft:forest": "2024-09-18 20:51:33 +0000",
       "minecraft:ocean": "2024-09-24 21:37:22 +0000",
-      "minecraft:old_growth_birch_forest": "2024-09-24 15:48:45 +0000"
+      "minecraft:old_growth_birch_forest": "2024-09-24 15:48:45 +0000",
+      "minecraft:plains": "2024-09-25 20:07:19 +0000"
     },
     "done": false
   },
@@ -369,9 +370,11 @@
     "criteria": {
       "sweet_berries": "2024-09-23 21:45:09 +0000",
       "cooked_beef": "2024-09-25 18:01:48 +0000",
+      "cooked_cod": "2024-09-25 20:13:09 +0000",
       "bread": "2024-09-25 19:28:51 +0000",
       "rotten_flesh": "2024-09-23 21:38:27 +0000",
-      "cooked_rabbit": "2024-09-24 23:12:19 +0000"
+      "cooked_rabbit": "2024-09-24 23:12:19 +0000",
+      "cooked_salmon": "2024-09-25 20:12:54 +0000"
     },
     "done": false
   },
@@ -3820,6 +3823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-09-25 20:12:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 19:25:03 +0000"
@@ -3853,6 +3862,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 19:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-09-25 20:08:45 +0000"
     },
     "done": true
   },
@@ -3946,6 +3961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-09-25 20:08:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-09-25 19:25:03 +0000"
@@ -3982,6 +4003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-09-25 20:08:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-09-25 19:15:59 +0000"
@@ -3997,6 +4024,18 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-09-25 19:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-09-25 20:08:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2024-09-25 20:08:45 +0000"
     },
     "done": true
   },
