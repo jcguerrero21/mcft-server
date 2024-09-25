@@ -3547,5 +3547,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2024-09-25 18:16:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-09-25 18:17:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
