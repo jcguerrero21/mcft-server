@@ -4490,6 +4490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-26 17:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2024-09-26 15:11:15 +0000"
@@ -4523,6 +4529,12 @@
   "cfm:recipes/decorations/stripped_jungle_cabinet": {
     "criteria": {
       "has_log": "2024-09-26 14:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-26 17:30:08 +0000"
     },
     "done": true
   },
