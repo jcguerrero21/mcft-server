@@ -4568,6 +4568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-09-26 15:49:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2024-09-26 14:59:47 +0000"
