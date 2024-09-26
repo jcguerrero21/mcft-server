@@ -9,7 +9,9 @@
     "criteria": {
       "minecraft:taiga": "2024-09-18 21:28:56 +0000",
       "minecraft:deep_ocean": "2024-09-26 13:19:41 +0000",
+      "minecraft:birch_forest": "2024-09-26 13:38:44 +0000",
       "minecraft:beach": "2024-09-23 22:06:01 +0000",
+      "minecraft:dark_forest": "2024-09-26 13:40:01 +0000",
       "minecraft:river": "2024-09-23 22:06:18 +0000",
       "minecraft:cold_ocean": "2024-09-25 18:32:13 +0000",
       "minecraft:forest": "2024-09-18 20:51:33 +0000",
@@ -4047,6 +4049,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-09-26 13:39:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-09-26 13:41:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-09-26 13:41:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-09-26 13:28:21 +0000"
@@ -4056,6 +4076,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-09-26 13:28:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-09-26 13:41:25 +0000"
     },
     "done": true
   },
@@ -4074,6 +4100,18 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-09-26 13:27:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-09-26 13:41:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-09-26 13:41:25 +0000"
     },
     "done": true
   },
@@ -4101,6 +4139,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-09-26 13:41:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-09-26 13:27:00 +0000"
@@ -4122,6 +4166,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-09-26 13:22:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-09-26 13:41:25 +0000"
     },
     "done": true
   },
@@ -4149,6 +4199,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-09-26 13:41:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_crate": {
     "criteria": {
       "has_planks": "2024-09-26 13:28:21 +0000"
@@ -4167,15 +4223,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-09-26 13:41:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-09-26 13:28:21 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-09-26 13:41:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2024-09-26 13:41:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-09-26 13:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-09-26 13:41:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-09-26 13:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-09-26 13:41:25 +0000"
     },
     "done": true
   },
@@ -4194,6 +4286,18 @@
   "cfm:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_planks": "2024-09-26 13:28:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-09-26 13:41:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-09-26 13:41:25 +0000"
     },
     "done": true
   },
